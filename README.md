@@ -17,5 +17,14 @@ An end-to-end retail sales dashboard tracking revenue, orders, and trends.
 
 ![Apex Retail Sales Dashboard](./Apex%20Retail%20Sales%20Dashboard.png)
 
+### 2. Apex Retail — Store Performance Dashboard
+A store performance dashboard with advanced DAX calculations and regional slicers.
+- **Tools:** Power BI, DAX
+- **Skills:** Calculated Columns & Measures, KPI Reporting, Data Modeling
+- **Key metrics:** Total Sales Revenue (39.72K) · Profit Margin % (55.46%) · Gross Profit (22.03K) · Performance Flag (Above Target)
+- **Visuals:** Total Sales Revenue by Region, Average Daily Sales by Region, Region slicer
+
+![Apex Retail Store Performance](DAX_Calculations.png)
+
 ## 📌 Notes
 Power BI .pbix files are not uploaded directly — see screenshots above.
