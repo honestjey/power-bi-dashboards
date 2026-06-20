@@ -15,7 +15,7 @@ An end-to-end retail sales dashboard tracking revenue, orders, and trends.
 - **Key metrics:** Total Revenue (7,189) · Total Orders (27) · Avg Order Value ($299.54)
 - **Visuals:** Revenue by Region, Revenue by Product Category, Revenue over Time
 
-![Apex Retail Sales Dashboard](./Screenshot_2026-06-20_124532.png)
+![Apex Retail Sales Dashboard](./Apex%20Retail%20Sales%20Dashboard.png)
 
 ## 📌 Notes
 Power BI .pbix files are not uploaded directly — see screenshots above.
