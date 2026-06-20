@@ -26,5 +26,14 @@ A store performance dashboard with advanced DAX calculations and regional slicer
 
 ![Apex Retail Store Performance](DAX_Calculations.png)
 
+### 3. Power BI Data Model — Retail Schema
+A relational data model built in Power BI connecting 5 tables for a retail dataset.
+- **Tools:** Power BI, Power Query
+- **Skills:** Data Modeling, Relationship Management, Star Schema Design
+- **Tables:** Products, AllOrders, CustomerDetails, Orders, Customers
+- **Relationships:** One-to-many relationships across CustomerID, OrderID, and ProductID
+
+![Power BI Data Model](PowerBI_Data_Modeling.png)
+
 ## 📌 Notes
 Power BI .pbix files are not uploaded directly — see screenshots above.
