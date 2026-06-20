@@ -8,16 +8,14 @@ Power BI, DAX, Power Query, SQL, Excel
 
 ## 📁 Dashboards
 
-### 1. KPI Performance Dashboard
-Tracked key performance indicators and trends across departments.
-- Tools: Power BI, DAX, Power Query
-- Skills: KPI Reporting, Data Modeling, Dashboard Development
+### 1. Apex Retail Sales Dashboard
+An end-to-end retail sales dashboard tracking revenue, orders, and trends.
+- **Tools:** Power BI, DAX, Power Query
+- **Skills:** KPI Reporting, Data Visualization, Dashboard Development
+- **Key metrics:** Total Revenue (7,189) · Total Orders (27) · Avg Order Value ($299.54)
+- **Visuals:** Revenue by Region, Revenue by Product Category, Revenue over Time
 
-### 2. Operational Reporting Dashboard
-Built and maintained reports for business and operational reporting.
-- Tools: Power BI, SQL, Excel
-- Skills: Data Validation, Report Optimization, Stakeholder Collaboration
+![Apex Retail Sales Dashboard](./Screenshot_2026-06-20_124532.png)
 
 ## 📌 Notes
-Screenshots and write-ups will be added soon.
-Power BI .pbix files are not uploaded directly — see screenshots folder.
+Power BI .pbix files are not uploaded directly — see screenshots above.
